@@ -6,7 +6,7 @@ Award: 1st place (AUO Prize), MakeNTU 2025
 
 <img src="docs/media/final-product/3.png" alt="Final Product Screenshot" width="50%" />
 
-## Demo
+<!-- ## Demo -->
 
 <!-- - Demo Video Link: https://canva.link/6l0bi7b30azhhz7 -->
 
