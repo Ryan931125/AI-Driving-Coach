@@ -4,7 +4,7 @@ Real-time AI driving assistant that combines an Arduino driving rig, a Python si
 
 Award: 1st place (AUO Prize), MakeNTU 2025
 
-<img src="docs/media/final-product/3.jpg" alt="Final Product Screenshot" width="20%" />
+<img src="docs/media/final-product/3.png" alt="Final Product Screenshot" width="25%" />
 
 ## Demo
 
