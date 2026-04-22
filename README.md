@@ -8,7 +8,7 @@ Award: 1st place (AUO Prize), MakeNTU 2025
 
 ## Demo
 
-- Demo Video Link: https://canva.link/6l0bi7b30azhhz7
+<!-- - Demo Video Link: https://canva.link/6l0bi7b30azhhz7 -->
 
 <!-- ## Tech Stack Graph
 
