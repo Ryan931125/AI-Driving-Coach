@@ -1,6 +1,6 @@
-# AI Driving Coach (Ai Cruise Assistant)
+# AI Driving Coach
 
-Real-time AI driving assistant that combines an Arduino driving rig, a Python simulation backend, and a React frontend to detect risky behavior and generate spoken coaching feedback.
+Real-time AI driving coach that combines an Arduino driving rig, a Python simulation backend, and a React frontend to detect risky behavior and generate spoken coaching feedback.
 
 Award: 1st place (AUO Prize), MakeNTU 2025
 
