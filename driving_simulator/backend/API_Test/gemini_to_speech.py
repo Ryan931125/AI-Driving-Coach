@@ -1,9 +1,5 @@
-import os
 from API_Test.Gemini import ask_gemini
 from API_Test.tts import text_to_mp3
-
-# export GOOGLE_API_KEY="AIzaSyCah6t9eq7lKQyftT16vFT5rhu7CKLR23U"
-# export GOOGLE_APPLICATION_CREDENTIALS="directed-line-458708-k2-aca3384de1c9.json"
 
 
 def gemini_to_speech(prompt, instruction="請用繁體中文回答，盡量簡潔", speaking_rate=1.2, output_filename="gemini_response.mp3"):

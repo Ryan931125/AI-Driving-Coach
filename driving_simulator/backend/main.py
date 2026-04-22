@@ -68,7 +68,7 @@ class DrivingSimulatorServer:
             logger.error(f"Unexpected error with client {client_id}: {e}")
         finally:
             # Remove the client from our set
-            self.connected_clients.remove(websocket)
+            self.connected_clients.discard(websocket)
             logger.info(
                 f"Client {client_id} disconnected. Total clients: {len(self.connected_clients)}")
 
@@ -221,10 +221,6 @@ class DrivingSimulatorServer:
                             if "handbreak" in arduino_data:
                                 self.car_physics.set_handbrake(
                                     arduino_data["handbreak"])
-
-                            if "turnSignal" in arduino_data:
-                                self.car_physics.set_turn_signal(
-                                    arduino_data["turnSignal"])
 
                             # Log the applied Arduino data at debug level
                             logger.debug(

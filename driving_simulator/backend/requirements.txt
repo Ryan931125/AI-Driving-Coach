@@ -1,0 +1,4 @@
+websockets
+pyserial
+google-generativeai
+google-cloud-texttospeech
