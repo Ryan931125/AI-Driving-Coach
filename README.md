@@ -10,16 +10,16 @@ Award: 1st place (AUO Prize), MakeNTU 2025
 
 - Demo Video Link: https://canva.link/6l0bi7b30azhhz7
 
-## Tech Stack Graph
+<!-- ## Tech Stack Graph
 
-<img src="docs/media/tech-stack-graph.png" alt="Tech Stack Graph" width="70%" />
+<img src="docs/media/tech-stack-graph.png" alt="Tech Stack Graph" width="70%" /> -->
 
 ## Final Product Gallery
 
 <p>
   <img src="docs/media/final-product/1.png" alt="Final Product 1" width="32%" />
   <img src="docs/media/final-product/2.png" alt="Final Product 2" width="32%" />
-  <img src="docs/media/final-product/3.jpg" alt="Final Product 3" width="32%" />
+  <img src="docs/media/final-product/3.png" alt="Final Product 3" width="32%" />
 </p>
 
 ## Tech Stack
