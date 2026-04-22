@@ -4,13 +4,23 @@ Real-time AI driving assistant that combines an Arduino driving rig, a Python si
 
 Award: 1st place (AUO Prize), MakeNTU 2025
 
-![Final Product Screenshot](docs/media/final-product/3.jpg)
+<img src="docs/media/final-product/3.jpg" alt="Final Product Screenshot" width="20%" />
 
 ## Demo
 
-- Demo video URL placeholder: [docs/media/demo-video-url.txt](docs/media/demo-video-url.txt)
-- Tech stack diagram path: `docs/media/tech-stack-graph.png`
-- Product gallery folder: [docs/media/final-product/README.md](docs/media/final-product/README.md)
+- Project demo / presentation: https://canva.link/6l0bi7b30azhhz7
+
+## Tech Stack Graph
+
+<img src="docs/media/tech-stack-graph.png" alt="Tech Stack Graph" width="70%" />
+
+## Final Product Gallery
+
+<p>
+  <img src="docs/media/final-product/1.png" alt="Final Product 1" width="32%" />
+  <img src="docs/media/final-product/2.png" alt="Final Product 2" width="32%" />
+  <img src="docs/media/final-product/3.jpg" alt="Final Product 3" width="32%" />
+</p>
 
 ## Tech Stack
 
@@ -61,23 +71,6 @@ Frontend runs at http://localhost:3000 and connects to ws://localhost:8765.
 - `driving_simulator/backend/`: physics, WebSocket server, Arduino bridge, voice feedback
 - `driving_simulator/frontend/`: simulator UI and scene rendering
 - `software/`: standalone scenario checking and CSV logging scripts
-
-## Media Placement Guide (For Interview/Portfolio)
-
-Put your assets in this layout so links stay clean and predictable:
-
-```text
-docs/
-  media/
-   demo-video-url.txt
-   tech-stack-graph.png
-   final-product/
-    hero.jpg
-    cockpit.jpg
-    controller.jpg
-```
-
-After adding files, replace the Demo section placeholder links with direct paths.
 
 ## Team
 
